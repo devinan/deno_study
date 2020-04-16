@@ -4,6 +4,7 @@
 
 ## Deno 공부
 
-| 작품                                                                     | 날짜   |
+| 학습                                                                     | 날짜   |
 | ------------------------------------------------------------------------ | ------ |
 | [deno HTTP server (simple)](https://github.com/devinan/deno-http-server) | 4 / 11 |
+| [deno Paris](https://www.youtube.com/watch?v=zzt8OzEZQAc) 실시간 스트리밍보면서 투두리스트 따라 만들기 | 4 / 15 |
